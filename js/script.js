@@ -135,7 +135,6 @@ function getTodos() {
     newTodo.innerText = todo;
     newTodo.classList.add("todo-item");
     todoDiv.appendChild(newTodo);
-    todo.todoInput.value = "";
 
     // Check mark button
     const completedButton = document.createElement("button");
