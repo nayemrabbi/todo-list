@@ -43,11 +43,9 @@ Users can able to:
 
 This a simple todo list app while working on this project. I have learned DOM operation, how to handle event e.t.c.
 
-# Author
-
 ## 🚀 About Me
 
-Hi there! 👋 I am a Front End Web Developer. I am currently living in Dhaka, Bangladesh and am working towards gaining global experience. My goal is to help your company grow with my skill set. 💻🚀I'm a full stack developer...
+Hi there! 👋 This is Nayem Rabbi. I am a Front End Web Developer. I am currently living in Dhaka, Bangladesh and am working towards gaining global experience. My goal is to help your company grow with my skill set. 💻🚀
 
 ## 🔗 Links
 
